@@ -10,7 +10,7 @@ I'm a frontend focused fullstack engineer. My stack includes:
 I also really enjoy using tools & frameworks like: 
 - Styled Components
 - Apollo Client
-- TypeGraphQL + Apollo or Apollo / GraphQL Yoga for projects without JavaScript
+- TypeGraphQL + Apollo or Apollo / GraphQL Yoga for projects without TypeScript
 ### About Me ⚡
 - 🔭 I’m currently working on a few side projects of mine: Kobble and KnowNime.
 - 🌱 I’m currently experimenting with GraphQL server frameworks and frontend tools like Framer Motion & SWR. 
