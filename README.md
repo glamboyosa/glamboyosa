@@ -5,6 +5,8 @@ I'm a frontend focused fullstack engineer. My stack includes:
 - GraphQL 
 - JavaScript
 - TypeScript
+
+
 I also really enjoy using tools & frameworks like: 
 - Styled Components
 - Apollo Client
