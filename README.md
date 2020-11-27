@@ -12,8 +12,7 @@ I also really enjoy using tools & frameworks like:
 - Apollo Client
 - TypeGraphQL + Apollo or Apollo / GraphQL Yoga for projects without TypeScript
 ### About Me ⚡
-- 🔭 I’m currently working on a few side projects of mine: Kobble and KnowNime.
-- 🌱 I’m currently experimenting with GraphQL server frameworks and frontend tools like Framer Motion & SWR. 
+- 🌱 I’m currently learning Ariadne (Python Schema first framework), PonyORM and playing around with GraphQL. 
 - 👯 I’m looking to collaborate on anything fun. 
 - 💬 Ask me about React (Hooks), GraphQL, JS etc.
 - 📫 you can reach me via email: ogbemudiatimothy@gmail.com
