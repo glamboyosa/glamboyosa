@@ -12,7 +12,7 @@ I also really enjoy using tools & frameworks like:
 - Apollo Client
 - TypeGraphQL + Apollo or Apollo / GraphQL Yoga for projects without TypeScript
 ### About Me ⚡
-- 🌱 I’m currently learning Ariadne (Python Schema first framework), PonyORM and playing around with GraphQL. 
+- 🌱 I’m currently learning Ariadne (Python Schema first framework), Peewee ORM and playing around with GraphQL. 
 - 👯 I’m looking to collaborate on anything fun. 
 - 💬 Ask me about React (Hooks), GraphQL, JS etc.
 - 📫 you can reach me via email: ogbemudiatimothy@gmail.com
