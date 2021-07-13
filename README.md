@@ -1,4 +1,4 @@
-### Hi there, my name is Timothy 👋
+### Hi there, my name is Timothy 👋🏿
 I'm a frontend focused fullstack engineer. My stack includes: 
 - React 
 - Node.js 
