@@ -8,7 +8,7 @@ I'm a frontend focused fullstack engineer. My stack includes:
 
 ### About Me ⚡
 - 👯 I’m looking to collaborate on anything fun. 
-- 🧠 I'm currently learning Rust.
+- 🧠 I'm currently learning Kent Dodds [Epic React](https://epicreact.dev/).
 - 💬 Ask me about React (Hooks), GraphQL, JS etc.
 - 📫 you can reach me via email: ogbemudiatimothy@gmail.com
 - 😄 Pronouns: He/Him
